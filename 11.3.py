@@ -1,4 +1,4 @@
-word = input()
+        word = input()
 i = int(input())
 letter = input()
 if i > len(word) or len(letter) > 1 or i < 0:
